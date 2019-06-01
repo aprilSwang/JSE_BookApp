@@ -1,0 +1,185 @@
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\ApplicationInsights.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.dll.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.pdb
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.exe
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.exe.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.rsp
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.exe
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.exe.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.rsp
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Console.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.exe
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.exe.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.rsp
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\AjaxControlToolkit.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Antlr3.Runtime.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Web.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Newtonsoft.Json.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\System.Web.Optimization.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\WebGrease.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\System.Web.Optimization.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Newtonsoft.Json.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Web.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.csproj.CopyComplete
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.dll
+C:\Users\MSI\source\repos\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.pdb
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\ApplicationInsights.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.dll.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\BookManagement_PERX.pdb
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.exe
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.exe.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csc.rsp
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.exe
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.exe.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\csi.rsp
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.AppContext.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Console.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.Compression.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.IO.Pipes.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Claims.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Threading.Thread.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.ValueTuple.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.exe
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.exe.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\vbc.rsp
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\VBCSCompiler.exe
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\AjaxControlToolkit.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Antlr3.Runtime.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.SqlServer.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Web.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ApplicationInsights.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Newtonsoft.Json.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\System.Web.Optimization.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\WebGrease.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\EntityFramework.SqlServer.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\System.Web.Optimization.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Newtonsoft.Json.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Antlr3.Runtime.pdb
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.AI.Web.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.csprojResolveAssemblyReference.cache
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.csproj.CoreCompileInputs.cache
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.csproj.CopyComplete
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.dll
+C:\Users\April Wang\Desktop\Assignment_Perx\BookManagement_PERX\BookManagement_PERX\obj\Debug\BookManagement_PERX.pdb
